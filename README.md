@@ -1,2 +1,2 @@
-# Javascript-Projects
-Completed FCC projects by sarends08
+# JavaScript Calculator
+JavaScript Calculator using JavaScript and CSS Grid
