@@ -1,2 +1,2 @@
 # JavaScript Calculator
-JavaScript Calculator using JavaScript and CSS Grid
+JavaScript Calculator using JavaScript for FCC
